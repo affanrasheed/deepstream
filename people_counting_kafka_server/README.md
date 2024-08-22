@@ -1,4 +1,4 @@
-#People count application With Deepstream SDK and Transfer Learning Toolkit
+# People count application With Deepstream SDK and Transfer Learning Toolkit
 ## Description 
 
   This is a sample application for counting people entering/leaving in a building using NVIDIA Deepstream SDK, Transfer Learning Toolkit (TLT) and pre-trained models. This application can be used to build real-time occupancy analytics application for smart buildings, hospitals, retail, etc. The application is based on deepstream-test5 sample application.
