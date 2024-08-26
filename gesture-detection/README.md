@@ -64,5 +64,6 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/nvidia/deepstream/deepstream/lib/cv
 
 ## Output
 ![alt-text](output.gif)
+
 [complete video](https://drive.google.com/file/d/1EFxaeV9A2MbLwkoz4UC-YvcMmtAtuLRS/view?usp=sharing)
 
