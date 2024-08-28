@@ -32,7 +32,7 @@ The application pipeline graph
 sudo apt update
 sudo apt install git-lfs
 git lfs install --skip-repo
-cd gesture-detection
+cd deepstream/gesture-detection
 ```
 ### 2. Download Models
 Run below script to download models.
