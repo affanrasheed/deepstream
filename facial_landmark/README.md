@@ -60,6 +60,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/nvidia/deepstream/deepstream/lib/cv
 ![alt-text](output/output.gif)
 
 * FPS is 57 on Jetson Orin Nano 8Gb
+
 ![alt-text](output/Output.png) 
 
 
